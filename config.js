@@ -89,10 +89,10 @@ const aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_mn.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
+  ["YOUTUBE", "iframe|https://www.youtube.com/watch?v=QgqyOoKqGmM?autoplay=1&mute=1"],
   [
-    "WEBSITE EXAMPLE",
-    "iframe|https://globe.adsbexchange.com/?airport=MSP",
+    "APRS.FI",
+    "iframe|https://aprs.fi/#!lat=45.16567&lng=-93.04483",
   ],
   ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
   ["HF PROPAGATION",
